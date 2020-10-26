@@ -1,0 +1,11 @@
+h1 {
+    background-color: #66ffcc;
+}
+img {
+    max-width:100%;
+    height: auto;
+}
+div#content h2 {
+    font-size: 30px;
+    color:  #004d33;
+}
